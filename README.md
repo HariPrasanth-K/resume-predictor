@@ -9,7 +9,6 @@ A smart **NLP** 💬 and **Machine Learning** 🤖 powered web app that predicts
 - 📄 Upload resumes in **PDF**, **DOCX**, or **TXT** format  
 - 🧠 Uses **NLP** and **ML models** to analyze content  
 - ⚡ Provides **instant job category prediction**  
-- 🌙 Dark theme for modern look  
 - 🖥️ Built with **Streamlit** for an interactive UI
 
 ---
